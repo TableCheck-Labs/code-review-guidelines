@@ -10,7 +10,7 @@ Remember, code review should never be used a personal attack! We’re all in thi
 **not preferred**
 
 > Reviewer: “There seems to be a typo here”
-> <> Submitter: “I hate yuo, grammar nazi!”
+> Submitter: “I hate yuo, grammar nazi!”
 
 If the reviewer points out something that isn’t correct, this guideline also applies
 
