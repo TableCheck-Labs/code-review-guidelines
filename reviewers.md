@@ -52,11 +52,11 @@ For small issues the reviewer can suggest that the submitter include the fix in 
 
 **not preferable**
 
-Not introduced here, but could you fix X, Y, Z?
+> Not introduced here, but could you fix X, Y, Z?
 
 **preferable**
 
-I see there is an issue on line 9, although it was not introduced in this commit. I raised an issue for this which we can fix at another time.
+> I see there is an issue on line 9, although it was not introduced in this commit. I raised an issue for this which we can fix at another time.
 
 ## Ask Questions, Use The Socratic Method
 
@@ -86,11 +86,11 @@ To quote the [google code review guidelines](https://google.github.io/eng-practi
 
 **not preferable**
 
-No, my way is still right because of X, Y. [offers no solution to move forward]
+> No, my way is still right because of X, Y. [offers no solution to move forward]
 
 **preferable**
 
-I see we have some disagreements on which pattern is the most idiomatic and correct. How about I create a guideline doc that we can follow in the future? For now, I will approve the PR and perhaps we can refactor in the next PR :thumbsup:
+> I see we have some disagreements on which pattern is the most idiomatic and correct. How about I create a guideline doc that we can follow in the future? For now, I will approve the PR and perhaps we can refactor in the next PR :thumbsup:
 
 ## Technical Facts Take Precedence Over Personal Preferences
 
