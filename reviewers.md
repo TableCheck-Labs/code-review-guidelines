@@ -62,7 +62,7 @@ For small issues the reviewer can suggest that the submitter include the fix in 
 
 The [Socratic Method](https://en.wikipedia.org/wiki/Socratic_method) is
 
-> is a form of cooperative argumentative dialogue between individuals, based on asking and answering questions to stimulate critical thinking and to draw out ideas and underlying presuppositions.
+> a form of cooperative argumentative dialogue between individuals, based on asking and answering questions to stimulate critical thinking and to draw out ideas and underlying presuppositions.
 
 Put simply, it is preferable for a reviewer to ask questions during a code review in order to gain insight on the submitter’s thought process and intent. An additional benefit to this method is that if the submitter actually had no specific intent, asking questions about the solution can reveal to the submitter that their solution, perhaps, is not optimal.
 
@@ -108,7 +108,7 @@ If there are a number of arbitrary solutions to a problem, the solution that is 
 
 **preferable**
 
-Due to [some technical facts and/or presented data], solution A is preferable to solution B.
+> Due to [some technical facts and/or presented data], solution A is preferable to solution B.
 
 Suggestions to make code “cleaner” must always be supported with evidence that one of (but not limited to) the following will happen
 
