@@ -5,11 +5,13 @@ Remember, code review should never be used a personal attack! We’re all in thi
 **preferred**
 
 > Reviewer: “There seems to be a typo here”
+> 
 > Submitter: “Thanks! Fixed”
 
 **not preferred**
 
 > Reviewer: “There seems to be a typo here”
+> 
 > Submitter: “I hate yuo, grammar nazi!”
 
 If the reviewer points out something that isn’t correct, this guideline also applies
@@ -17,11 +19,13 @@ If the reviewer points out something that isn’t correct, this guideline also a
 **preferred**
 
 > Reviewer: “If we change this to X, will it still work?”
+> 
 > Submitter: “Good point, actually this will not work because Y”
 
 **not preferred**
 
 > Reviewer: “If we change this to X, will it still work?”
+> 
 > Submitter: “Of course not u smooth brain monke, maybe u should go back to the jungle”
 
 ## Proofread Your Own Diffs
