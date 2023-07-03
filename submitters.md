@@ -34,7 +34,7 @@ To quote Robert C. Martin in Clean Code: A Handbook of Agile Software
 
 > Clean code is simple and direct. Clean code reads like well-written prose. Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of control.
 
-Have you ever had to doublecheck and proofread your taxes, important forms, important emails sent to clients, presentations…anything? Code is no exception. Submitting your draft MR and re-reading the diff is a great way to catch mistakes before you ask for review.
+Have you ever had to doublecheck and proofread your taxes, important forms, important emails sent to clients, presentations…anything? Code is no exception. Submitting your draft PR and re-reading the diff is a great way to catch mistakes before you ask for review.
 
 Proofreading also allows you to read the diff as if you were the reviewer; the diff should be just as clear to you as it is to anybody else. Take a small break, then come back and re-read your diff. If you find anything confusing, the reviewer will definitely find it confusing as well.
 
