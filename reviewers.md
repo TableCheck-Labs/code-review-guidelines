@@ -136,8 +136,8 @@ Do not usurp the role of the product/project manager ask ask the submitter to ad
 
 **not preferable**
 
-Can you also include this behavior? It will make it better for the user.
+> Can you also include this behavior? It will make it better for the user.
 
 **preferable**
 
-For now this is good :ok_hand:, but I think we could improve upon the UX at a later phrase. Let me raise a ticket and clarify with the product manager and designer.
+> For now this is good :ok_hand:, but I think we could improve upon the UX at a later phrase. Let me raise a ticket and clarify with the product manager and designer.
