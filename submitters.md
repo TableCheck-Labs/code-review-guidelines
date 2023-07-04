@@ -63,7 +63,7 @@ There are a number of great benefits we receive if we follow this guideline:
 
 ## Use the PR Itself To Document Questions & Code Smells
 
-Instead of asking big questions in slack, open a draft MR and methodically piece together your well-articulated question in the context of the code itself.
+Instead of asking big questions in slack, open a draft PR and methodically piece together your well-articulated question in the context of the code itself.
 
 Code smells that are **necessary** for an implementation should be thoroughly documented and commented.
 
