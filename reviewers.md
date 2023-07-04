@@ -44,9 +44,11 @@ We shouldn’t spend a lot of time on things that can be automated in tooling or
 
 **not preferable**
 
+> Can we use tabs instead of spaces?
+>
 > Can we use absolute imports here?
+> 
 > Can we alphabetically arrange the variables?
-> I don’t like using intermediary variables here
 
 ## Do Not Ask Submitters To Fix Large Unrelated Issues
 
