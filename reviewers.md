@@ -18,19 +18,19 @@ _Never_ use ad hominem.
 
 https://habr.com/en/post/440736/
 
-It can be quite easy to assume any criticism is a personal attack. We can use certain phrasing to make our reviews seems less like personal attacks.
+It can be quite easy to assume any criticism is a personal attack. We can use certain phrasing to make our reviews seems less like personal attacks. Avoid making sweeping label statements about a person's identity and focus on the **outcomes** and **impact** of the code, not the person.
 
 **not preferable**
 
-> You missed x thing in the feature.
-> Your code is hard to understand.
-> You need to pay closer attention to the tests.
+> **You** missed x thing in the feature.
+> **You** have a lack of attention to detail.
+> **Your** code is hard to understand.
 
 **preferable**
 
-> The feature spec lists x, it does not seem to be included here though.
-> I am having a hard time understanding this, could you help me?
-> Do you think we should strive for better code coverage in this feature?
+> The feature spec lists x, **it** does not seem to be included here though.
+> **I** am having a hard time understanding this, could you help me?
+> Do you think **we** should strive for better code coverage in this feature?
 
 ## No Nitpicking
 
