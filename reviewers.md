@@ -18,7 +18,7 @@ _Never_ use ad hominem.
 
 https://habr.com/en/post/440736/
 
-It can be quite easy to assume any criticism is a personal attack. We can use certain phrasing to make our reviews seems less like personal attacks. Avoid making sweeping label statements about a person's identity and focus on the **outcomes** and **impact** of the code, not the person.
+It can be quite easy to assume any criticism is a personal attack. We can use certain phrasing to make our reviews seems less like personal attacks. Avoid making sweeping label statements about a person's identity and focus on the **outcomes** and **impact** of the code.
 
 **not preferable**
 
