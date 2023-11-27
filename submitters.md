@@ -1,3 +1,7 @@
+## Overview
+
+The point of code review is not for the reviewers to hand-hold you through the process of implementing a feature or writing a bug. That is your job as the submitter. It is also the responsibility of the submitter to do their due diligence and ensure only high quality PRs are raised. The responsibility of the reviewer to not to make sure the submitter is "doing their job", but that the code being requested for merge is high quality and maintains that quality of the codebase. 
+
 ## Be Humble, Be Respectful
 
 Remember, code review should never be used a personal attack! We’re all in this together to ensure the long-term stability of our products.
