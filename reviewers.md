@@ -12,7 +12,7 @@ _Never_ use ad hominem.
 
 **preferable**
 
-> Overall good job :thumbsup: This line, however, seems to differ from the spec. Could you explain this part to me?
+> This is a good start :thumbsup: This line, however, seems to differ from the spec. Could you explain this part to me?
 
 ## Code Review Does Not Put People Down, It Brings People Up
 
