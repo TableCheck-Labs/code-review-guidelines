@@ -54,6 +54,8 @@ We shouldn’t spend a lot of time on things that can be automated in tooling or
 
 If they didn’t cause it, there should be no reason for them to fix it. We can defer the task for later. A deferrable task is intrinsically a low-priority task. If you spot something that should be fixed, but was not introduced in the PR, raise an issue and share with the team at a later time.
 
+The difference between asking for unrelated changes and the [boyscout rule](https://deviq.com/principles/boy-scout-rule) (Leave your code better than you found it) is at times hard to understand and definitely not objective. Use your judgement.
+
 For small issues the reviewer can suggest that the submitter include the fix in the PR, but this is optional.
 
 **not preferable**
