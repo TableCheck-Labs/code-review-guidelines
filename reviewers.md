@@ -140,7 +140,7 @@ It is not preferable to block a PR from being merged, for reason that can be han
 
 ## Adhere To The Designed Spec
 
-Do not usurp the role of the product manager by asking the submitter to add unplanned features and enhancements. Do not ask for corrections for unplanned and impossible edge cases. Required tests should be part of the grooming process to determine what the critical test paths are.
+Everyone in the team must be aligned on why and what we are building *before* a single line of code is written. If we are making spec changes during code review, this is an anti-pattern that must be corrected with whoever is deciding what the product does and what/whose problems it solves.
 
 **not preferable**
 
