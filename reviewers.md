@@ -14,7 +14,7 @@ _Never_ use ad hominem.
 
 > This is a good start :thumbsup: This line, however, seems to differ from the spec. Could you explain this part to me?
 
-## Code Review Does Not Put People Down, It Brings People Up
+## Code Review Is Not A Personal Attack or Crusade
 
 https://habr.com/en/post/440736/
 
@@ -52,7 +52,7 @@ We shouldn’t spend a lot of time on things that can be automated in tooling or
 
 ## Do Not Ask Submitters To Fix Large Unrelated Issues
 
-If they didn’t cause it, there should be no reason for them to fix it. We can defer the task for later. A deferrable task is intrinsically a low-priority task. If you spot something that should be fixed, but was not introduced in the PR, raise an issue and share with the team at a later time.
+If they didn’t cause it, there should be no reason for them to fix it. We can defer the task for later. A deferrable task is intrinsically a low-priority task. If you spot something that should be fixed, but was not introduced in the PR, raise it as a separate issue.
 
 The difference between asking for unrelated changes and the [boyscout rule](https://deviq.com/principles/boy-scout-rule) (Leave your code better than you found it) is at times hard to understand and definitely not objective. Use your judgement.
 
